@@ -1,0 +1,15 @@
+<resources>
+    <!-- ... other strings ... -->
+    <string-array name="ipl_teams">
+        <item>Chennai Super Kings</item>
+        <item>Mumbai Indians</item>
+        <item>Royal Challengers Bangalore</item>
+        <item>Kolkata Knight Riders</item>
+        <item>Delhi Capitals</item>
+        <item>Rajasthan Royals</item>
+        <item>Punjab Kings</item>
+        <item>Sunrisers Hyderabad</item>
+        <item>Gujarat Titans</item>
+        <item>Lucknow Super Giants</item>
+    </string-array>
+</resources>
